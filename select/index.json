@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "give it back",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2025-12-13T11:04:37.335590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give It Back That Love Is Mine",
+      "artist": "Dead or Alive",
+      "has_synced": true,
+      "path": "select/01_Give_It_Back_That_Love_Is_Mine_Dead_or_Alive.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give It Back (That Love Is Mine)",
+      "artist": "Dead Or Alive",
+      "has_synced": true,
+      "path": "select/02_Give_It_Back_(That_Love_Is_Mine)_Dead_Or_Alive.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/03_Give_It_Back_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "Sixpence None the Richer",
+      "has_synced": false,
+      "path": "select/04_Give_It_Back_Sixpence_None_the_Richer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "The Ting Tings",
+      "has_synced": true,
+      "path": "select/05_Give_It_Back_The_Ting_Tings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give It Back - Demo",
+      "artist": "The Ting Tings",
+      "has_synced": true,
+      "path": "select/06_Give_It_Back_-_Demo_The_Ting_Tings.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "The Dickies",
+      "has_synced": false,
+      "path": "select/07_Give_It_Back_The_Dickies.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "The Dickies",
+      "has_synced": true,
+      "path": "select/08_Give_It_Back_The_Dickies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give It Back (Live 1977)",
+      "artist": "The Dickies",
+      "has_synced": false,
+      "path": "select/09_Give_It_Back_(Live_1977)_The_Dickies.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give It Back (Live)",
+      "artist": "The Dickies",
+      "has_synced": false,
+      "path": "select/10_Give_It_Back_(Live)_The_Dickies.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give It Back (Demo)",
+      "artist": "The Ting Tings",
+      "has_synced": true,
+      "path": "select/11_Give_It_Back_(Demo)_The_Ting_Tings.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give It Back (feat. The Big Tymers)",
+      "artist": "Toni Braxton feat. Big Tymers",
+      "has_synced": false,
+      "path": "select/12_Give_It_Back_(feat._The_Big_Tymers)_Toni_Braxton_feat._Big_Tymers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give It Back",
+      "artist": "Toni Braxton",
+      "has_synced": false,
+      "path": "select/13_Give_It_Back_Toni_Braxton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give It Back [Feat. The Big Tymers]",
+      "artist": "Toni Braxton",
+      "has_synced": false,
+      "path": "select/14_Give_It_Back_[Feat._The_Big_Tymers]_Toni_Braxton.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open (Give It Back to Me)",
+      "artist": "Redbone",
+      "has_synced": false,
+      "path": "select/15_Open_(Give_It_Back_to_Me)_Redbone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "give it back",
+      "artist": "Cö Shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_give_it_back_Cö_Shu_Nie.txt"
+    }
+  ]
+}
